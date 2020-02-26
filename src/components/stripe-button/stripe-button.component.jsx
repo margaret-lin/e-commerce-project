@@ -26,7 +26,4 @@ const StripeCheckoutButton = ({ price }) => {
     );
 };
 
-// default test credit card from Stripe
-// 4242 4242 4242 4242 - Exp: 01/22 - CW: 123
-
 export default StripeCheckoutButton;
